@@ -1,2 +1,0 @@
-# ThorSignia
-software solutions website
